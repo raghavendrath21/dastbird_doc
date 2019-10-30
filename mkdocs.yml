@@ -1,0 +1,20 @@
+site_name: DashBird
+theme:
+  name: 'material'
+ 
+nav:
+- Home: index.md
+- Auth: auth.md
+- Client: client.md
+- Organization: organization.md
+- User: user.md
+- SimulationInstance: simulation_instance.md
+- SimulationUser: simulation_user.md
+- Simulation: simulation.md
+- FriendsFamilyTicket: friends_family_ticket.md
+- Role: role.md
+extra_css: [extra.css]
+
+
+
+    
